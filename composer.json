@@ -1,0 +1,7 @@
+{
+    "name": "yorarch/smthapi",
+    "version" : "0.2.0",
+    "require": {
+        "php": ">=5.1.0",
+    }
+}
